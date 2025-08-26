@@ -1,4 +1,4 @@
-import UserModel from '../Models/user_model.js'
+import UserModel from '../models/user_model.js'
 import bcrypt from 'bcryptjs'
 import verifyEmailTemplate from '../utils/verifyEmailTemplate.js'
 import sendEmail from '../config/sendEmail.js' // sendEmail import line 
